@@ -33,9 +33,12 @@ Em HTML, tudo é uma caixa.
 ### Alguns rascunhos
 
 1. Directions
+
 ![alt text](./img/flex-directions.png)
 
 2. Nav example
+
 ![alt text](./img/layoutflex.png)
+
 ![alt text](./img/space.png)
 
